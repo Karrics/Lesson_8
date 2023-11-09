@@ -1,0 +1,7 @@
+D:\Distrib\Adel\Прога\Lesson_11.11\TaskManager\bin\Debug\TaskManager.exe.config
+D:\Distrib\Adel\Прога\Lesson_11.11\TaskManager\bin\Debug\TaskManager.exe
+D:\Distrib\Adel\Прога\Lesson_11.11\TaskManager\bin\Debug\TaskManager.pdb
+D:\Distrib\Adel\Прога\Lesson_11.11\TaskManager\obj\Debug\TaskManager.csproj.AssemblyReference.cache
+D:\Distrib\Adel\Прога\Lesson_11.11\TaskManager\obj\Debug\TaskManager.csproj.CoreCompileInputs.cache
+D:\Distrib\Adel\Прога\Lesson_11.11\TaskManager\obj\Debug\TaskManager.exe
+D:\Distrib\Adel\Прога\Lesson_11.11\TaskManager\obj\Debug\TaskManager.pdb
